@@ -1,0 +1,16 @@
+# Chat History
+history.json
+
+# Private Documents and Vector Database
+data/
+faiss_index/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
